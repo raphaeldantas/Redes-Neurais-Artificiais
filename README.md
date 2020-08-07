@@ -1,4 +1,4 @@
-# Repositorio da Disciplina de Redes Neurais Artificiais do curso de Pós Graduação da Unifacisa em Ciencia de Dados, cuja matéria foi lecionada pelo professor Bruno Gama Catão. 
+# Repositorio da Disciplina de Redes Neurais Artificiais do curso de Pós Graduação da Unifacisa em Ciência de Dados, cuja matéria foi lecionada pelo professor Bruno Gama Catão. 
 
 
 Requisitos
